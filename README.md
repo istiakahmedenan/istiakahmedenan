@@ -66,7 +66,7 @@ I am the founder of **SecureXone**, a company focused on helping people and busi
 
 <table>
 <tr>
-<td width="140" align="center"><b><img src="securexone-sx-animated.svg" alt="SecureXone Logo" width="70" /> </b></td>
+<td width="140" align="center"><b><img src="securexone-sx-animated.svg" alt="SecureXone Logo" width="80" /> </b></td>
 <td>
 <b>SecureXone</b> — cyber security and social media recovery services.<br/>
 Our mission is simple: <b>help you recover what you lost, protect what you have, and grow what's next.</b>
