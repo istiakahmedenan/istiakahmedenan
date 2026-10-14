@@ -17,7 +17,9 @@
 
 <br/><br/>
 
-<div align="center"> <img src="[https://komarev.com/ghpvc/?username=istiakahmedenan&style=for-the-badge](https://komarev.com/ghpvc/?username=istiakahmedenan&style=for-the-badge)" alt="Profile Views" /> </div>
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fistiakahmedenan&count_bg=%23080808&title_bg=%230A0F0A&icon=github.svg&icon_color=%23B6FF00&title=Profile+Views&edge_flat=false" alt="Profile Views" />
+</p>
 
 
 </div>
