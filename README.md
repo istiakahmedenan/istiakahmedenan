@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=istiakahmedenan&style=for-the-badge)
+<div align="center"> <img src="[https://komarev.com/ghpvc/?username=istiakahmedenan&style=for-the-badge](https://komarev.com/ghpvc/?username=istiakahmedenan&style=for-the-badge)" alt="Profile Views" /> </div>
 
 
 </div>
