@@ -120,14 +120,10 @@ Our mission is simple: <b>help you recover what you lost, protect what you have,
 ---
 
 ## 🐍 Contribution Snake
-
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/istiakahmedenan/istiakahmedenan/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/istiakahmedenan/istiakahmedenan/output/snake-light.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/istiakahmedenan/istiakahmedenan/output/snake-light.svg" />
-</picture>
+  <img src="https://raw.githubusercontent.com/istiakahmedenan/istiakahmedenan/main/portrait.svg" width="50%" alt="Profile Image" />
 </div>
+
 
 ---
 
