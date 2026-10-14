@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=2800&pause=900&color=B6FF00&center=true&vCenter=true&width=850&lines=Social+Media+Recovery+Specialist;Cyber+Security+Enthusiast;Founder+of+SecureXone;Recover+%7C+Protect+%7C+Grow;Let's+Rebuild+Your+Online+Presence" alt="Typing SVG" />
 </a>
 
-<img src="https://raw.githubusercontent.com/istiakahmedenan/istiakahmedenan/refs/heads/main/portrait.svg" width="100%" alt="Istiak Ahmed Enan" />
+<img src="https://cdn.jsdelivr.net/gh/istiakahmedenan/istiakahmedenan@main/portrait.svg" width="100%" alt="Istiak Ahmed Enan" />
 
 <br/>
 
